@@ -1047,6 +1047,24 @@ Q.28) What are the steps to integrate Jenkins with Git?
 
 
 
+What is the difference between git pull and git fetch?
+
+
+How do you revert a commit that has already been pushed and made public?
+
+How do you squash last N commits into a single commit?
+
+How do you find a list of files that has changed in a particular commit?
+
+How do you setup a script to run every time a repository receives new commits through push?
+
+What are the different ways you can refer to a commit?
+
+One of your teammates accidentally deleted a branch, and has already pushed the changes to the central git repo. There are no other git repos, and none of your other teammates had a local copy. How would you recover this branch?
+
+
+How can you copy a commit made in one branch to another (e.g. a hot fix commit from released branch to current development branch)?
+
 
 
 
