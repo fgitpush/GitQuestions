@@ -1,4 +1,4 @@
-# Top WordPress Interview Questions & Answers
+# Top Git Interview Questions & Answers
 
 > Click :star: if you like the project. Pull Request are highly appreciated.
 
