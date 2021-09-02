@@ -6,10 +6,10 @@
 
 | No. | Questions |
 | --- | --------- |
-|1  | [What is WordPress?](#What-is-WordPress) |
-|2  | [Which year was WordPress released?](#Which-year-was-WordPress-released) |
-|3  | [What are minimum requirements to run WordPress?](#What-are-minimum-requirements-to-run-WordPress) |
-|5  | [What is a plugin in WordPress? List plugin that comes with WordPress](#What-is-a-plugin-in-WordPress-List-plugin-that-comes-with-WordPress) |
+|1  | [What is Git?](#What-is-WordPress) |
+|2  | [What is Git Clone and How to Clone a Git repository?](#Which-year-was-WordPress-released) |
+|3  | [How you can see list of all branches in Git?](#What-are-minimum-requirements-to-run-WordPress) |
+|5  | [How do I create a new branch in Git?](#What-is-a-plugin-in-WordPress-List-plugin-that-comes-with-WordPress) |
 |6  | [What is the difference between wordpress.com and wordpress.org?](#What-is-the-difference-between-wordpress-com-and-wordpress-org) |
 |7  | [Where is WordPress content stored?](#Where-is-WordPress-content-stored) |
 |8  | [What are the differences between Posts and Pages?](#What-are-the-differences-between-Posts-and-Pages) |
