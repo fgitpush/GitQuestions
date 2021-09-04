@@ -10,11 +10,12 @@
 |2  | [What is Git Clone and How to Clone a Git repository?](#Which-year-was-WordPress-released) |
 |3  | [How you can see list of all branches in Git?](#What-are-minimum-requirements-to-run-WordPress) |
 |5  | [How do I create a new branch in Git?](#What-is-a-plugin-in-WordPress-List-plugin-that-comes-with-WordPress) |
-|6  | [What is the difference between wordpress.com and wordpress.org?](#What-is-the-difference-between-wordpress-com-and-wordpress-org) |
-|7  | [Where is WordPress content stored?](#Where-is-WordPress-content-stored) |
-|8  | [What are the differences between Posts and Pages?](#What-are-the-differences-between-Posts-and-Pages) |
-|9  | [What are the types of hooks in WP and what are their functions?](#What-are-the-types-of-hooks-in-WP-and-what-are-their-functions?) |
-|10 | [What is an action hook?](#What-is-an-action-hook) |
+|6  | [What is the most popular branching strategy in GIT?](#What-is-the-difference-between-wordpress-com-and-wordpress-org) |
+|7  | [How can you commit a file in Git?](#Where-is-WordPress-content-stored) |
+|8  | [How can you push changes to a remote branch in Git?](#What-are-the-differences-between-Posts-and-Pages) |
+|9  | [What is the difference between git fetch and git pull?](#What-are-the-types-of-hooks-in-WP-and-what-are-their-functions?) |
+|10 | [How can you copy a commit made in one branch to another (e.g. a hot fix commit from released branch to current development branch)?
+](#What-is-an-action-hook) |
 |11 | [What is a filter hook?](#What-is-a-filter-hook) |
 |12 | [How do you enable debug mode in WP?](#How-do-you-enable-debug-mode-in-WP)
 |13 | [What is a WordPress taxonomy?](#What-is-a-WordPress-taxonomy) |
@@ -146,7 +147,7 @@
 
    **[⬆ Back to Top](#table-of-contents)**
     
-10. ### What is an action hook?
+10. ### How can you copy a commit made in one branch to another (e.g. a hot fix commit from released branch to current development branch)?
 
     Used to perform an action (i.e an event) when hook is called.
 
@@ -1063,7 +1064,6 @@ What are the different ways you can refer to a commit?
 One of your teammates accidentally deleted a branch, and has already pushed the changes to the central git repo. There are no other git repos, and none of your other teammates had a local copy. How would you recover this branch?
 
 
-How can you copy a commit made in one branch to another (e.g. a hot fix commit from released branch to current development branch)?
 
 
 
